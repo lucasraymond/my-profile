@@ -1,29 +1,29 @@
 
 body{
- 	background: #DCDCCC;
+ 	background: #EC9F7B;
  	color: #steelblue;
  	font-family: 'Lora', serif; 
- 	font-size: 16px;
+ 	font-size: 18px;
  	font-weight: lighter;
 }
 h1, h2, h3 {
 	font-family: 'Roboto', sans-serif;
 }
 h1 {
-  	color: #blueviolet;
-  	font-size: 36px;
+  	color: #6B2100;
+  	font-size: 38px;
   	font-weight: 600;
 }
 h2 {
-  	color: #blue;  
-  	font-size: 25px;
+  	color: #6B2100;  
+  	font-size: 28px;
   	font-weight: 400;
 }
 a {
  	text-decoration: inherit;
- 	color: #skyblue;
+ 	color: #6B2100;
  	font-weight:
- 	font-size: 14px;
+ 	font-size: 18px;
 }
 a:hover {
 	color: black;
@@ -31,7 +31,7 @@ a:hover {
 
  
 .container {
-	width:700px;
+	width:800px;
 	margin:40px auto;
 }
 
@@ -61,13 +61,13 @@ a:hover {
 }
 
 .btn-blue {
-	background-color: #95541F;
+	background-color: #B55528;
 	color: white;
 	padding: 15px 20px;
 	border-radius: 4px;
 }
 .btn-blue: hover {
-	background-color: black;
+	background-color: #B55528;
 	color: white;
 }
 
